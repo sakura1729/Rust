@@ -1,0 +1,11 @@
+C:\Users\Administrator\Documents\Rust\target\debug\deps\ascii-7e25b7cb753be291.rmeta: C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\ascii-1.1.0\src\lib.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\ascii-1.1.0\src\ascii_char.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\ascii-1.1.0\src\ascii_str.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\ascii-1.1.0\src\ascii_string.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\ascii-1.1.0\src\free_functions.rs
+
+C:\Users\Administrator\Documents\Rust\target\debug\deps\libascii-7e25b7cb753be291.rlib: C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\ascii-1.1.0\src\lib.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\ascii-1.1.0\src\ascii_char.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\ascii-1.1.0\src\ascii_str.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\ascii-1.1.0\src\ascii_string.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\ascii-1.1.0\src\free_functions.rs
+
+C:\Users\Administrator\Documents\Rust\target\debug\deps\ascii-7e25b7cb753be291.d: C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\ascii-1.1.0\src\lib.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\ascii-1.1.0\src\ascii_char.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\ascii-1.1.0\src\ascii_str.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\ascii-1.1.0\src\ascii_string.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\ascii-1.1.0\src\free_functions.rs
+
+C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\ascii-1.1.0\src\lib.rs:
+C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\ascii-1.1.0\src\ascii_char.rs:
+C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\ascii-1.1.0\src\ascii_str.rs:
+C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\ascii-1.1.0\src\ascii_string.rs:
+C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\ascii-1.1.0\src\free_functions.rs:

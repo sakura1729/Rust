@@ -1,0 +1,10 @@
+C:\Users\Administrator\Documents\Rust\target\debug\deps\proconio-75ea4f6a33a39d55.rmeta: C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\proconio-0.3.8\src\lib.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\proconio-0.3.8\src\marker.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\proconio-0.3.8\src\read.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\proconio-0.3.8\src\source\mod.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\proconio-0.3.8\src\source\line.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\proconio-0.3.8\src\source\once.rs
+
+C:\Users\Administrator\Documents\Rust\target\debug\deps\proconio-75ea4f6a33a39d55.d: C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\proconio-0.3.8\src\lib.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\proconio-0.3.8\src\marker.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\proconio-0.3.8\src\read.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\proconio-0.3.8\src\source\mod.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\proconio-0.3.8\src\source\line.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\proconio-0.3.8\src\source\once.rs
+
+C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\proconio-0.3.8\src\lib.rs:
+C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\proconio-0.3.8\src\marker.rs:
+C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\proconio-0.3.8\src\read.rs:
+C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\proconio-0.3.8\src\source\mod.rs:
+C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\proconio-0.3.8\src\source\line.rs:
+C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\proconio-0.3.8\src\source\once.rs:
