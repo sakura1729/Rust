@@ -1,12 +1,11 @@
 use proconio::{fastout, input};
-#[fastout]
 #[allow(unused_variables)]
 #[allow(non_snake_case)]
 fn binary_search(A: &[usize], x: usize) -> usize {
     let mut L: usize = 0;
     let mut R: usize = A.len() - 1;
     loop {
-        let mut M: usize = (L + R) / 2;
+        let M: usize = (L + R) / 2;
         if A[M] < x {
             L = M + 1;
         }
@@ -18,6 +17,8 @@ fn binary_search(A: &[usize], x: usize) -> usize {
         }
     }
 }
+#[fastout]
+#[allow(non_snake_case)]
 fn main() {
     input! {
         n: usize,

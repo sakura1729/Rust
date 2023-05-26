@@ -1,5 +1,6 @@
 use proconio::{fastout, input};
 #[fastout]
+#[allow(non_snake_case)]
 fn main() {
     input! {
         n: usize,
